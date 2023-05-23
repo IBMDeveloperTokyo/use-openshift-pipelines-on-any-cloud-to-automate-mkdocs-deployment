@@ -347,6 +347,14 @@ podman push imagename:imagetag
 
 コンテナイメージが用意できたら、Tekton Tasksでコンテナイメージ名を置き換えることができます。
 
-## Summary
+## サマリー
 
 このチュートリアルでは、OpenShift Pipelinesを使って、GitHubのMarkdownテキストファイルを静的HTMLサイトに変換し、GitHub Pagesにデプロイする処理を自動化する方法を学びました。
+
+## 著作者 / Author
+
+このコンテンツは以下2名がオリジナルを作成し、それを日本語化したものとなります。
+
+They are the author of the original english content.
+* Manoj Jahgirdar
+* Brian Innes
