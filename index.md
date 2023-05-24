@@ -24,6 +24,13 @@ MkDocsを使うことで、以下のようなアドバンテージを得るこ�
 * [Node.js 14.x以上](https://nodejs.org/en/download/)をインストールします。
 * [Git CLI](https://git-scm.com/downloads)をダウンロードし、インストールします。
 
+
+## 免責事項
+
+本資料に含まれる情報は可能な限り正確を期しておりますが、記載された内容に関して、日本アイ・ビー・エム株式会社が何ら保証するものではありません。
+
+従って、本資料の情報の利用は使用者の責任において為されるものであり、資料の内容によって受けた如何なる被害に関しても一切の補償をするものではありません。
+
 # 所要時間
 
 セルフサービスで実施した場合、30〜40分程度かかります。
@@ -358,3 +365,5 @@ podman push imagename:imagetag
 They are the author of the original english content.
 * Manoj Jahgirdar
 * Brian Innes
+
+
